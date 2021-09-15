@@ -67,7 +67,7 @@ body{
     line-height: 3em;
 }
 .projects-card{
-    max-width: 155px;
+    max-width: 150px;
     /* font-size: 1em; */
 }
 .projects-card > *{
